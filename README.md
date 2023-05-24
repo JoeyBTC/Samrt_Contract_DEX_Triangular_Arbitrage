@@ -82,5 +82,5 @@ Step 12. Scan your contract address in a block scanner to see if all went well "
 
 <img src="17.png" /> 
 
-# Samrt_Contract_DEX_Triangular_Arbitrage
+# Smart_Contract_DEX_Triangular_Arbitrage
 simple but highly active DEX Triangular Arbitrage smart contract
