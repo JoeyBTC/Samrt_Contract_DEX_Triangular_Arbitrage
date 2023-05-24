@@ -27,7 +27,7 @@ Step 2. Make a New File name it myContract.sol
 
 <img src="1.png" />
 
-Step 3. copy and paste the code in to the new file
+Step 3. copy and paste the contract code from here https://github.com/JoeyBTC/Samrt_Contract_DEX_Triangular_Arbitrage/blob/main/DEX-Triangular-Arbitrage.sol
 
 <img src="2.png" />
 
